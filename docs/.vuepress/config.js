@@ -16,7 +16,8 @@ module.exports = {
       ['/01', '1.introduce'],
       ['/02', '2.union standard'],
       ['/03', '3.webpack 学习点'],
-      ['/04', '4.vue项目中全局引入自定义模板']
+      ['/04', '4.vue项目中全局引入自定义模板'],
+      ['/05', '5.Typescript学习文档']
     ],
     smoothScroll: true,
   }
